@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7893
     wikipedia: http://www.lambiek.net/aanvang/feith.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18236#In-de-Amsterdamsche-JodenbuurtDe-Aarde-en-haar-Volken-1907
 gutenberg_bookshelf:
 - De Aarde en haar Volken
 - Anthropology
